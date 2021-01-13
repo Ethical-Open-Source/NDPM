@@ -1,1 +1,2 @@
-# NDPM
+# The Non-Dubious Patent Movement
+The *Non-Dubious Patent Movement* isn't a movement of open-source, but aims to correct what we believe the [End Software Patents](http://endsoftpatents.org/) movement got entirely wrong. There are general reasons why software patents are important. Also, if software can't get patented, then all other forms of patents are less viable. This can lead to companies w/ large IP portfolios going under or the ability of large companies to create mega monopolies. The economic damage can be drastic. This is why we want to be clear in regards to why we disagree. ...
